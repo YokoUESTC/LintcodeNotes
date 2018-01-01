@@ -1,7 +1,8 @@
 Given a linked list, return the node where the cycle begins. If there is no cycle, return null.
 
 Note: Do not modify the linked list.
-
+思路主要是让一个指针从fast和slow指针第一次相遇的点出发，另一个指针从head出发
+再次相遇时就是环的起点
 
 
 
