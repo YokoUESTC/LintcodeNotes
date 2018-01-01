@@ -1,1 +1,2 @@
-# 关于lintcode上刷题的一些体会与感想
+# lintcode&leetcode
+刷题历程
